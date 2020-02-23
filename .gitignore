@@ -22,6 +22,7 @@ Build/Targets/x86-microsoft-win32-vs2015/**/Release
 Build/Targets/x86-microsoft-win32-vs2015/**/*.suo
 Build/Targets/x86-microsoft-win32-vs2015/**/*.user
 Build/Targets/x86-microsoft-win32-vs2015/**/*.sdf
+Build/Targets/x86_64-microsoft-win32-vs2017/Bento4/x64/
 Build/Targets/universal-apple-macosx/build
 Build/Targets/universal-apple-macosx/Bento4.xcodeproj/xcuserdata
 Build/Targets/universal-apple-macosx/Bento4.xcodeproj/project.xcworkspace/xcuserdata
